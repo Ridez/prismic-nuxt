@@ -2,6 +2,8 @@
 
 > Using prismic headless CMS with Nuxt
 
+> [Demo](https://wonderful-meitner-fa6e78.netlify.com)
+
 ## Build Setup
 
 ``` bash
